@@ -1,0 +1,3 @@
+Charla1 AulaMagna 17/12/23 Medicina 25 DoctorMessi 5.000000 14 Ponencia
+Charla2 AulaP10 18/12/23 Informatica 50 NateGentile 12.000000 18 Charla
+Charla3 AulaB3 19/12/23 Magisterio 45 ProfesoraGarcia 23.000000 15 Ponencia

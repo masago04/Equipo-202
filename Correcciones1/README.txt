@@ -1,0 +1,2 @@
+En este commit he modificado la funcion eliminarActividad del DirectorAcademico para que devuelve true si elimina la actividad y false si el nombre introducido no esta registrado. 
+Otra modificacion es que el gestor podia agregar a mas de un usuario con el mismo dni, y ahora controla que eso no pueda ocurrir
