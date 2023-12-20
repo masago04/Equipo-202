@@ -1,0 +1,4 @@
+0001A Mario Sanchez Informatica UCO 2 i22marsa@uco.es
+0002B Juan Gomez Medicina UGR 3 i21juago@uco.es
+0003C Pepe Viyuela Magisterio US 1 i23pepvi@uco.es
+0004D Fernando Garrido Fisioterapia UJA 3 i21ferga@uco.es

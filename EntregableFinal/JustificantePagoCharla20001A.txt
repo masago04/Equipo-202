@@ -1,0 +1,4 @@
+******JUSTIFICANTE DE PAGO******
+Usted Mario Sanchez con DNI 0001A ha realizado el pago de 12.00 para asistir a la actividad Charla2
+
+	IMPORTE:	##12.00##

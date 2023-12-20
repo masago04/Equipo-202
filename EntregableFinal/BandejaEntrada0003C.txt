@@ -1,0 +1,14 @@
+De: Director Academico
+Para: i23pepvi@uco.es
+Mensaje: Hola a todos, os enviamos una actividad en la que se van a tratar temas interesantes y dirigidos a vosotros. 
+	Nombre: Charla3
+	Lugar: AulaB3
+	Fecha: 19/12/23
+	Publico: Magisterio
+	Aforo: 45
+	Ponentes: ProfesoraGarcia
+	Precio: 23.000000
+	Hora: 15
+	Tipo de actividad: Ponencia
+Agradecemos su participacion.
+Un cordial saludo, el Director Academico

@@ -1,0 +1,9 @@
+historico
+agradecimientos HECHO
+menu visitante HECHO
+justificantedepago HECHO
+cancelar inscripcion HECHO
+hacer remove de ficheros de preinscripcion e inscripicion tras eliminar actividad HECHO
+
+
+REVISAR QUE SI ES EL PRIMERO SALE ERROR AL ABRIR EL FICHERO

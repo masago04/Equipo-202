@@ -1,0 +1,4 @@
+******JUSTIFICANTE DE PAGO******
+Usted Ricardo Diaz con DNI 1A ha realizado el pago de 15.00 para asistir a la actividad Actividad1
+
+	IMPORTE:	##15.00##

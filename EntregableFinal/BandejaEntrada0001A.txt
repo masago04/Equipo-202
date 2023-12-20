@@ -1,0 +1,42 @@
+De: Director Academico
+Para: i22marsa@uco.es
+Mensaje: Hola a todos, os enviamos una actividad en la que se van a tratar temas interesantes y dirigidos a vosotros. 
+	Nombre: Charla2
+	Lugar: AulaP10
+	Fecha: 18/12/23
+	Publico: Informatica
+	Aforo: 50
+	Ponentes: NateGentile
+	Precio: 12.000000
+	Hora: 18
+	Tipo de actividad: Charla
+Agradecemos su participacion.
+Un cordial saludo, el Director Academico
+De: Director Academico
+Para: i22marsa@uco.es
+Mensaje: Hola a todos, os enviamos una actividad en la que se van a tratar temas interesantes y dirigidos a vosotros. 
+	Nombre: Charla1
+	Lugar: AulaMagna
+	Fecha: 17/12/23
+	Publico: Medicina
+	Aforo: 25
+	Ponentes: DoctorMessi
+	Precio: 5.000000
+	Hora: 14
+	Tipo de actividad: Ponencia
+Agradecemos su participacion.
+Un cordial saludo, el Director Academico
+De: Director Academico
+Para: i22marsa@uco.es
+Mensaje: Hola a todos, os enviamos una actividad en la que se van a tratar temas interesantes y dirigidos a vosotros. 
+	Nombre: Charla3
+	Lugar: AulaB3
+	Fecha: 19/12/23
+	Publico: Magisterio
+	Aforo: 45
+	Ponentes: ProfesoraGarcia
+	Precio: 23.000000
+	Hora: 15
+	Tipo de actividad: Ponencia
+Agradecemos su participacion.
+Un cordial saludo, el Director Academico
