@@ -1,0 +1,5 @@
+0001A Mario Sanchez Informatica EPSC 2 i22marsa@uco.es
+0002B Juan Gomez Medicina UCO 3 i21juago@uco.es
+0003C Fernando Garrido Fisioterapia UCO 3 i21ferga@uco.es
+0004D Maria Serrano Mecanica EPSC 2 i22marse@uco.es
+0005E Estrella Garcia Informatica EPSC 4 i20estga@uco.es
